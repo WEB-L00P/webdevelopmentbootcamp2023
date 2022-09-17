@@ -6,11 +6,12 @@
 .navbar-brand {
     font-size: 2rem;
     font-weight: 700;
+    color: white;
 }
 .nav-link{
     margin: 0 20px;
     text-align: center;
-    color: black;
+    color: white;
     font-size: 1rem;
 }
 .nav-link:hover {
@@ -18,7 +19,7 @@
     color: white;
     background-color: black;
     border-radius: 10px;
-}
+
 
 
 
