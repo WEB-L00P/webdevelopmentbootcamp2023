@@ -20,9 +20,13 @@
     background-color: black;
     border-radius: 10px;
 }
+.main-heading a {
+    color: red;
+}
 
-
-
+.course-items h3 {
+    color: red;
+}
 
 /*----  Main Style  ----*/
 #cards_landscape_wrap-2{
